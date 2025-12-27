@@ -1,0 +1,9 @@
+streamlit==1.32.2
+opencv-python-headless==4.9.0.80
+numpy
+pandas
+Pillow
+mtcnn
+keras-facenet
+tensorflow==2.15.0
+sqlite-utils
